@@ -1,0 +1,33 @@
+---
+#title: "Grammatica Irlandese"
+
+output: 
+  html_document:
+    toc: false
+    toc_float:
+      toc_collapsed: false
+    toc_depth: 2
+    # number_sections: true
+    #theme: lumen
+---
+
+# Grammatica Irlandese
+
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquam pharetra dignissim. Curabitur quis scelerisque risus, vitae feugiat urna. Maecenas in faucibus mi, vel dapibus mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis molestie dapibus nisl, sit amet sollicitudin orci scelerisque quis. Nulla eu risus egestas, aliquet velit eu, tempus tortor. Nulla ac massa tempus, blandit quam at, rhoncus enim. Aliquam fringilla metus pharetra orci mollis rhoncus. Cras id purus quis felis molestie egestas eget ut lorem.
+
+
+---
+
+## Lista dei capitoli 
+
+1. [Alfabeto](1_alfabeto.html)
+2. [Pronuncia](2_pronuncia.html)
+3. [Articolo](3_articolo.html)
+4. [Sostantivo](4_sostantivo.html)
+5. [Aggettivo](5_aggettivo.html)
+6. [Pronomi](6_pronomi.html)
+7. [Preposizioni](7_preposizioni.html)
+8. [Esercizi](8_esercizi.html)
+9. [Tabelle](9_tabelle.html)
